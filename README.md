@@ -5,3 +5,10 @@ basically i used to want to pursue making this but ctypes is agonising to work w
 has an increasing workers system where it will not-so-slowly get worse and worse over time
 
 
+---
+
+# demonstration
+(sorry for the horrible quality, github wants me to keep it under 10mb while i have to film... this)
+
+https://github.com/dootss/monochrome/assets/126783585/ef4bc8c3-1d7a-4ab8-8f9f-e45a723bd5a6
+
